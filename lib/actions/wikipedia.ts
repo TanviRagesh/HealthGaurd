@@ -35,6 +35,6 @@ export async function searchWikipedia(query: string): Promise<WikipediaSearchRes
   }
 }
 
-export function getWikipediaUrl(key: string): string {
+export async function getWikipediaUrl(key: string): Promise<string> {
   return `https://en.wikipedia.org/wiki/${key}`
 }
