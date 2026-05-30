@@ -8,7 +8,7 @@ Repository for devbees - Vibe Coding Hackathon
 
 4. Deployed Link (optional)
 
-(Add deployed link here if available)
+https://healthgaurd-omega.vercel.app/
 
 5. 2-minute Demonstration Video Link
 
